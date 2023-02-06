@@ -19,7 +19,7 @@ This action runs a specified script on a target system via SSH.
 ## Example Usage
 
 ```yaml
-uses: orbit-software-development/ssh-command-action@main
+uses: orbit-software-dev/ssh-command-action@main
 with:
   host: host.domain.com
   user: myUsername
